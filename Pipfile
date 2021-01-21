@@ -9,6 +9,7 @@ jupyter = "*"
 yfinance = "*"
 beautifulsoup4 = "*"
 requests = "*"
+matplotlib = "*"
 
 [dev-packages]
 
