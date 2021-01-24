@@ -1,2 +1,4 @@
-*download
-*.db
+**/downloads/
+
+**/*.db
+.DS_Store
