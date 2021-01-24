@@ -10,6 +10,8 @@ yfinance = "*"
 beautifulsoup4 = "*"
 requests = "*"
 matplotlib = "*"
+selenium = "*"
+wget = "*"
 
 [dev-packages]
 

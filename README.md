@@ -3,3 +3,10 @@
 
 
 checklist for buying/entering point
+
+
+
+Southwater
+[x] - get the latest info and save to sql
+
+IV
