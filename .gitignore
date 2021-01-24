@@ -1,4 +1,5 @@
 **/downloads/
-
-**/*.db
+*.csv
+*.db
 .DS_Store
+*chromedriver
