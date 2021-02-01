@@ -12,6 +12,12 @@ requests = "*"
 matplotlib = "*"
 selenium = "*"
 wget = "*"
+opencv-python = "*"
+pyautogui = "*"
+jupyterlab = "*"
+tabulate = "*"
+cmake = "*"
+fake-useragent = "*"
 
 [dev-packages]
 
